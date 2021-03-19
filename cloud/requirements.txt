@@ -21,7 +21,7 @@ django-picklefield==0.3.2
 django-qsstats-magic==0.7.2
 django-queryset-csv==0.3.3
 django-tables2==1.1.6
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 envoy==0.0.3
 flower==0.7.0
 humanize==0.5.1
