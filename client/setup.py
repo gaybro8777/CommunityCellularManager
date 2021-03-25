@@ -59,7 +59,7 @@ setup(
         "phonenumbers==6.2.0",
         "psutil==3.1.1",
         "psycopg2==2.6",
-        "PyYAML==3.10",
+        "PyYAML==5.4",
         "requests==2.6.2",
         "sms-utilities==0.0.4",
         "snowflake==0.0.3",
