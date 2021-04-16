@@ -12,7 +12,7 @@ celery==3.1.23
 dj-database-url==0.3.0
 django-allauth==0.25.2
 django-crispy-forms==1.6.0
-django-debug-toolbar==1.4.0
+django-debug-toolbar==1.11.1
 django-guardian==1.4.2
 django-logentry-admin==1.0.2
 django-loginas==0.1.9
