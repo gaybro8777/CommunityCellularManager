@@ -30,7 +30,7 @@ kombu==3.0.35
 logilab-common==0.63.2
 mock==1.0.1
 oauthlib==0.7.2
-paramiko==1.11.1
+paramiko==2.10.1
 psycopg2==2.5.1
 py-bcrypt==0.4
 pycrypto==2.6
